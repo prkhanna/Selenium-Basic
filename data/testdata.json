@@ -1,0 +1,15 @@
+{
+  "companyName": "Prince Khanna Test",
+  "firstName": "Prince",
+  "lastName": "Khanna",
+  "street": "Valentinskamp",
+  "streetNo" :"70",
+  "zip": "20355",
+  "city": "Hamburg",
+  "area": "Hamburg",
+  "country": "Germany",
+  "vatNo" : "DE123456789",
+  "email": "Autotest@taxdoo.de",
+  "dob": "23021988",
+  "successMsg": "Success! The Form has been submitted successfully!."
+}
